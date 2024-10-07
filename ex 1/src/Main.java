@@ -69,7 +69,7 @@ public class Main {
 
         user1.searchMessages("textetexte");
 
-        groupe_chat.sentERequest("radu@mail");
+        groupe_chat.sentERequest("google@mail");
         groupe_chat.sentMRequest("+40777");
 
         Groupe_Chat.deleteGroupe(1);
